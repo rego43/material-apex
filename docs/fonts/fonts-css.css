@@ -1,13 +1,13 @@
 @font-face {font-family: "ArabesqueW01-Regular";
 src: url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.eot");
-src: url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.eot?#iefix") format("embedded-opentype"),
+src: local('ArabesqueW01-Regular'),url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.eot?#iefix") format("embedded-opentype"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.woff2") format("woff2"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.woff") format("woff"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.ttf") format("truetype"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/ArabesqueW01-Regular.svg#ArabesqueW01-Regular") format("svg"); }
 @font-face {font-family: "SavaPro-Medium";
 src: url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.eot");
-src: url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.eot?#iefix") format("embedded-opentype"),
+src: local('SavaPro-Medium'),url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.eot?#iefix") format("embedded-opentype"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.woff2") format("woff2"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.woff") format("woff"),
 url("//raw.githubusercontent.com/rego43/material-apex/master/docs/fonts/SavaPro-Medium.ttf") format("truetype"),
